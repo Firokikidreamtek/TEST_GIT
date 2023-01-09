@@ -4,3 +4,5 @@ New line was added locally.
 Another line made by strange guy.
 
 And this one line is new! And it's in the new branch.
+
+Ha ha!
